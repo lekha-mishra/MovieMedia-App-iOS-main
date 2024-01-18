@@ -1,0 +1,6 @@
+framework module Pods_MovieMedia {
+  umbrella header "Pods-MovieMedia-umbrella.h"
+
+  export *
+  module * { export * }
+}
